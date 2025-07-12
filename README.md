@@ -1,7 +1,7 @@
 ## 👥 Team Information – *ReWear: Community Clothing Exchange*
 
-**Team Name:** AlgoWarriors
-**Project Title:** *ReWear – Community Clothing Exchange*
+**Team Name:** AlgoWarriors  
+**Project Title:** *ReWear – Community Clothing Exchange*  
 
 ### Team Members
 
