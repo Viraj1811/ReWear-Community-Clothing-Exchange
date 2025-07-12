@@ -9,7 +9,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { useAuth } from "@/lib/auth";
 import Link from "next/link";
-import { KeyRound, Mail } from "lucide-react";
+import { KeyRound, Mail } from "lucide-react";    
 
 const formSchema = z.object({
   email: z.string().email({ message: "Invalid email address." }),
