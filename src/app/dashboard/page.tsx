@@ -17,7 +17,7 @@ import { Badge } from "@/components/ui/badge";
 
 export default function DashboardPage() {
   const { user, isAuthenticated } = useAuth();
-  const router = useRouter();
+  const router = useRouter();       
 
   useEffect(() => {
     if (!isAuthenticated) {
