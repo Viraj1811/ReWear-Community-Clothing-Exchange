@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'ReWear Revolution',
   description: 'Swap and discover pre-loved clothing.',
 };
-
+                                                                                                                                   
 export default function RootLayout({
   children,
 }: Readonly<{
