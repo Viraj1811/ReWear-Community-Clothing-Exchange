@@ -17,6 +17,7 @@ import Image from "next/image";
 import { useAuth } from '@/lib/auth';
 import { useEffect } from 'react';
 
+
 const formSchema = z.object({
   title: z.string().min(5, "Title must be at least 5 characters."),
   description: z.string().min(20, "Description must be at least 20 characters."),
