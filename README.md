@@ -1,5 +1,3 @@
-<h2 style="color: red;">🔴 Note: Please make sure you are viewing and working in the <code>master</code> branch of this repository.</h2>
-
 # 👕 ReWear: Community Clothing Exchange
 
 ## 🧠 Project Overview
