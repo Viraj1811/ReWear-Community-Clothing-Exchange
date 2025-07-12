@@ -1,10 +1,18 @@
-# ReWear-Community-Clothing-Exchange
-Problem Statement:ReWear – Community Clothing Exchange
-Team Leader: Viraj Vaghasiya 
-Email: virajvaghasiya1811@gmail.com 
-Team member-1: Tanvi Kakadiya
-Email: tanvikakadiya231@gmail.com
-Team member-2: Bhavin Muchhala
-Email: muchhalabhavin@gmail.com
-Team member-2: Jaineel Chhatraliya
-Email: jaineelchhatraliya@gmail.com
+## 👥 Team Information – *ReWear: Community Clothing Exchange*
+
+**Team Name:** ReWear  
+**Project Title:** *ReWear – Community Clothing Exchange*
+
+### Team Members
+
+- **Viraj Vaghasiya** *(Team Leader)*  
+  📧 [virajvaghasiya1811@gmail.com](mailto:virajvaghasiya1811@gmail.com)
+
+- **Tanvi Kakadiya**  
+  📧 [tanvikakadiya231@gmail.com](mailto:tanvikakadiya231@gmail.com)
+
+- **Bhavin Muchhala**  
+  📧 [muchhalabhavin@gmail.com](mailto:muchhalabhavin@gmail.com)
+
+- **Jaineel Chhatraliya**  
+  📧 [jaineelchhatraliya@gmail.com](mailto:jaineelchhatraliya@gmail.com)
