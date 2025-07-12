@@ -1,5 +1,18 @@
-# Firebase Studio
+## 👥 Team Information – ReWear: Community Clothing Exchange
 
-This is a NextJS starter in Firebase Studio.
+*Team Name:* AlgoWarriors  
+*Project Title:* ReWear – Community Clothing Exchange  
 
-To get started, take a look at src/app/page.tsx.
+### Team Members
+
+- *Viraj Vaghasiya* (Team Leader)  
+  📧 [virajvaghasiya1811@gmail.com](mailto:virajvaghasiya1811@gmail.com)
+
+- *Tanvi Kakadiya*  
+  📧 [tanvikakadiya231@gmail.com](mailto:tanvikakadiya231@gmail.com)
+
+- *Bhavin Muchhala*  
+  📧 [muchhalabhavin@gmail.com](mailto:muchhalabhavin@gmail.com)
+
+- *Jaineel Chhatraliya*  
+  📧 [jaineelchhatraliya@gmail.com](mailto:jaineelchhatraliya@gmail.com)
