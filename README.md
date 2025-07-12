@@ -3,7 +3,7 @@
 ## 🧠 Project Overview
 
 **ReWear** is a community-driven platform designed to promote sustainable fashion by enabling users to donate, swap, or redeem gently used clothing items. It fosters a circular clothing economy where individuals can contribute to environmental impact reduction through peer-to-peer exchange.
-
+   
 ---
 
 ## 👥 Team Information
