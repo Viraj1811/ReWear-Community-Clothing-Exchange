@@ -1,5 +1,3 @@
-<h2 style="color: red;">🔴 Note: Please make sure you are viewing and working in the <code>master</code> branch of this repository.</h2>
-
 # 👕 ReWear: Community Clothing Exchange
 
 ## 🧠 Project Overview
@@ -34,7 +32,7 @@
 - **Frontend:** Next.js, Tailwind CSS  
 - **Backend:** Firebase (Firestore, Auth, Storage)  
 - **Icons & UI:** Lucide, ShadCN UI  
-- **Deployment:** Firebase Hosting  
+- **Deployment:** Firebase Hosting (in progress)
 
 ---
 
