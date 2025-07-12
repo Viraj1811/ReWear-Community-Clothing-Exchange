@@ -1,4 +1,4 @@
-<h2 style="color: red;">🔴 Note: Please ensure you are working on the <code>master</code> branch before committing any code.</h2>
+<h2 style="color: red;">🔴 Note: Please make sure you are viewing and working in the <code>master</code> branch of this repository.</h2>
 
 # 👕 ReWear: Community Clothing Exchange
 
@@ -53,5 +53,6 @@
 ```bash
 git clone https://github.com/Viraj1811/ReWear-Community-Clothing-Exchange.git
 cd ReWear-Community-Clothing-Exchange
+git checkout master
 npm install
 npm run dev
