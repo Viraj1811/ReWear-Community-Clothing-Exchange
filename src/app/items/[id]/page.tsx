@@ -8,6 +8,7 @@ import { Gem, Heart, Tag, Weight } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
 
+
 export default function ItemDetailPage({ params }: { params: { id: string } }) {
   const item = allItems.find((i) => i.id === params.id);
 
