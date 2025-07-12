@@ -34,7 +34,7 @@
 - **Frontend:** Next.js, Tailwind CSS  
 - **Backend:** Firebase (Firestore, Auth, Storage)  
 - **Icons & UI:** Lucide, ShadCN UI  
-- **Deployment:** Firebase Hosting  
+- **Deployment:** Firebase Hosting (in progress)
 
 ---
 
